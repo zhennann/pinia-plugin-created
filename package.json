@@ -1,0 +1,21 @@
+{
+  "name": "pinia-plugin-created",
+  "version": "1.0.0",
+  "description": "create created lifecycle method in your pinia 🍍 store!",
+  "main": "./src/index.js",
+  "author": "zhennann",
+  "keywords": [
+    "pinia",
+    "plugin",
+    "created"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhennann/pinia-plugin-created.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhennann/pinia-plugin-created/issues"
+  },
+  "homepage": "https://github.com/zhennann/pinia-plugin-created#readme"
+}
