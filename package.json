@@ -1,7 +1,7 @@
 {
   "name": "pinia-plugin-created",
   "version": "1.0.0",
-  "description": "create created lifecycle method in your pinia 🍍 store!",
+  "description": "Support created lifecycle hook in your pinia 🍍 store!",
   "main": "./src/index.js",
   "author": "zhennann",
   "keywords": [

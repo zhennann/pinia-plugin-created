@@ -1,4 +1,4 @@
-Create `created` lifecycle method in your pinia 🍍 store!
+Support `created` lifecycle hook in your pinia 🍍 store!
 
 ## Installation
 
